@@ -1,2 +1,2 @@
 # hello-world
-sample repository
+Here we will learn about data structures.
